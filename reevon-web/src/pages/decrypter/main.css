@@ -1,0 +1,29 @@
+.alinear{
+    margin-left: auto;
+    margin-right: 50px;
+    margin-bottom: 10px;
+
+}
+.card1 {
+    border: 9px solid transparent;
+    border-image: linear-gradient(to bottom, #222831, #2D4059);
+    border-image-slice: 1;
+    
+    width: auto;
+    padding: auto auto;
+    margin: auto auto;
+  
+}
+.cardback{
+    background-color: #222831;
+}
+
+.buttonback{
+    background-color: #222831;
+    color: aliceblue;
+}
+
+.min-width-button {
+    min-width: 120px; 
+  }
+  

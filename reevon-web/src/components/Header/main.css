@@ -1,0 +1,11 @@
+#nav{
+    background-color: #272932;
+}
+.MainText{
+  text-align: center;
+}
+.Item{
+    padding-left: 20px;
+    color: white;
+    background-color: #272932;
+}
