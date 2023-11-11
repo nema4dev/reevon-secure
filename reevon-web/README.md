@@ -1,8 +1,8 @@
-# Proyecto Administracion de Riesgos Informaticos
+# ReevonSecure
 
 ![](https://github.com/wpineda21/RiesgosInformaticos/blob/main/src/image/git.gif)
 
-## Descricpion:
+## Descripción:
 
 El proyecto consiste en el desarrollo de una aplicación de software que cumple con ciertos requerimientos relacionados con la gestión de activos de seguridad de la información y el intercambio de datos de manera segura. 
 
