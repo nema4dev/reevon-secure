@@ -1,6 +1,6 @@
 # ReevonSecure
 
-![](https://github.com/wpineda21/RiesgosInformaticos/blob/main/src/image/git.gif)
+![Capture](https://github.com/nema4dev/reevon-secure/assets/119716951/e17aaae5-171f-4252-95ab-145833b79fe5)
 
 ## Descripción:
 
